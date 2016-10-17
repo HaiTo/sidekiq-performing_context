@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['dany1468']
   spec.email         = ['dany1468@gmail.com']
 
-  spec.summary       = 'Passing context values when calling async method for Sidekiq worker'
-  spec.description   = 'Passing context values when calling async method for Sidekiq worker'
+  spec.summary       = 'Passing context values when create a job for Sidekiq Jobs'
+  spec.description   = 'Passing context values when create a job for Sidekiq Jobs'
   spec.homepage      = 'https://github.com/dany1468/sidekiq-performing_context'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
