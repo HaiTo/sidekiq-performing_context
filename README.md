@@ -2,6 +2,8 @@
 
 Sidekiq::PerformingContext is a server-side Sidekiq middleware which provides a way to passing context values when create a job for Sidekiq Jobs.
 
+[![wercker status](https://app.wercker.com/status/4a9c8c4cf9aba29f120903dd75455757/s/master "wercker status")](https://app.wercker.com/project/byKey/4a9c8c4cf9aba29f120903dd75455757)
+
 ## Installation
 
 Add this line to your application's Gemfile:
